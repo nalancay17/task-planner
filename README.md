@@ -189,7 +189,7 @@ En este diagrama se presentan las distintas clases que tiene el modelo actual de
 > Entre los métodos de algunas clases se tendrá *getters()* y *setters()* para indicar que se deben implementar **TODOS** los métodos getters y setters correspondientes a dichas clases. Se prefiere indicar de esta manera por cuestiones de tamaño y legibilidad del diagrama.
 
 
-![Diagrama de clases](https://drive.google.com/uc?id=1MJX_kLEDsXkSuAKbCQofOi-Pvwxsr1qx)
+![Diagrama de clases](https://drive.google.com/uc?id=1tpz2BbEI_wN2IITkDMpFr6o-12u_fVtI)
 
 Algunos datos a tener en cuenta:
 - DTOs: se usan para evitar el envío de información no necesaria y/o confidencial entre las capas del sistema.
